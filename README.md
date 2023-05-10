@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm <a>Anastasia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+My website: https://rainbow-tapioca-196fbb.netlify.app/
+
 Design:
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
